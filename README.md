@@ -1,6 +1,8 @@
 # Project Report: Procurement & Supplier Performance Analytics Dashboard
 # 1. Project Overview
-This project involved the end-to-end analysis of a procurement dataset containing 777 purchase orders. The primary objective was to develop an interactive Excel dashboard to provide actionable business insights into procurement spend, supplier performance, cost savings, and data quality. The analysis covers a three-year period (2022-2024) and evaluates performance across five key suppliers and five primary item categories.
+This project involved the end-to-end analysis of a procurement dataset containing 777 purchase orders. 
+The primary objective was to develop an interactive Excel dashboard to provide actionable business insights into procurement spend, supplier performance, cost savings, and data quality. 
+The analysis covers a three-year period (2022-2024) and evaluates performance across five key suppliers and five primary item categories.
 The project demonstrates the ability to transform raw, and often flawed, transactional data into a strategic tool for decision-makers in a procurement or supply chain function.
 # 2. Business Problem & Objectives
 The procurement department lacked a consolidated, reliable view of its operational and financial performance. Key questions from stakeholders included:
