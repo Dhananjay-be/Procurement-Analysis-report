@@ -50,8 +50,8 @@ This rigorous validation process ensures the final dashboard's insights are buil
 
 A set of core KPIs was established to measure performance:
 
-- **Total Negotiated Spend:** `SUM(Total_Spend) = $45,373,696.39`
-- **Total Cost Savings:** `SUM(Original_Spend) - SUM(Total_Spend) = $3,931,126.47`
+- **Total Negotiated Spend:** `SUM(Total_Spend) = ₹45,373,696.39`
+- **Total Cost Savings:** `SUM(Original_Spend) - SUM(Total_Spend) = ₹3,931,126.47`
 - **Savings Percentage:** `Total Cost Savings / Total Original Spend = 7.97%`
 - **Total Defective Units:** `SUM(Defective_Units) = 47,949`
 - **Overall Defect Rate:** `SUM(Defective_Units) / SUM(Quantity) = 5.64%`
@@ -66,8 +66,8 @@ The dashboard is organized into thematic sections to provide a clear narrative.
 
 An at-a-glance view of the most critical metrics for senior management.
 
-- **Total Spend:** $45.4M
-- **Total Savings:** $3.9M (8.0%)
+- **Total Spend:** ₹45.4M
+- **Total Savings:** ₹3.9M (8.0%)
 - **Compliance Rate:** 82.4%
 - **Overall Defect Rate:** 5.6%
 - **Pending Order Rate:** 10.4%
@@ -76,9 +76,9 @@ An at-a-glance view of the most critical metrics for senior management.
 
 This section addresses the question: "Are we getting price savings?"
 
-- **Spend by Category:** The top spending categories are MRO ($10.1M)\*\* , \*\*Office Supplies ($10.0M) , and Beta_Supplies ($9.9M) . This insight allows for strategic category management.
-- **Savings by Supplier:** Beta_Supplies generated the highest total savings ($889K), while \*\*Gamma_Co\*\* had the lowest ($725K). This highlights opportunities for negotiating better terms with lower-performing suppliers.
-- **Spend Trends:** Analysis of spend by year shows a significant increase in \*\*2023 ($23.7M)\*\* compared to 2022 ($21.5M), indicating business growth or increased procurement activity.
+- **Spend by Category:** The top spending categories are MRO (₹10.1M)\*\* , \*\*Office Supplies (₹10.0M) , and Beta_Supplies (₹9.9M) . This insight allows for strategic category management.
+- **Savings by Supplier:** Beta_Supplies generated the highest total savings (₹889K), while \*\*Gamma_Co\*\* had the lowest (₹725K). This highlights opportunities for negotiating better terms with lower-performing suppliers.
+- **Spend Trends:** Analysis of spend by year shows a significant increase in \*\*2023 (₹23.7M)\*\* compared to 2022 (₹21.5M), indicating business growth or increased procurement activity.
 
 ### c. Supplier Performance Analysis
 
